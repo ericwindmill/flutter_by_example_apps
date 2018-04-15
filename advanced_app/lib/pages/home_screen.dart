@@ -1,11 +1,7 @@
-import 'dart:async';
-
 import 'package:advanced_app/app_state_container.dart';
 import 'package:advanced_app/models/app_state.dart';
 import 'package:advanced_app/pages/auth_screen.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:google_sign_in/google_sign_in.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
