@@ -30,7 +30,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  var initialDoggos = []
+  var initialDoggos = <Dog>[]
     ..add(new Dog('Ruby', 'Portland, OR, USA',
         'Ruby is a very good girl. Yes: Fetch, loungin\'. No: Dogs who get on furniture.'))
     ..add(new Dog('Rex', 'Seattle, WA, USA', 'A Very Good Boy'))

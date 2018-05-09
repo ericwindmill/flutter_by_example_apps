@@ -1,11 +1,12 @@
 library routes;
 
 import 'package:flutter/material.dart';
-import 'package:me_suite/models/app_state.dart';
+import 'package:flutter_redux/flutter_redux.dart';
 import 'package:me_suite/pages/auth_page.dart';
 import 'package:me_suite/pages/home_page.dart';
-import 'package:flutter_redux/flutter_redux.dart';
 import 'package:me_suite/pages/loading_page.dart';
+
+import 'models/app_state.dart';
 
 void updateRoute(AppState state, BuildContext context) {
   if (state.currentUser != null) {

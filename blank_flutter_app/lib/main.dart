@@ -25,13 +25,10 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
-        appBar: new AppBar(
-          title: new Text(widget.title),
-          backgroundColor: Colors.black87,
-        ),
-        body: new Container()
+      appBar: new AppBar(
+        title: new Text(widget.title),
+      ),
+      body: new Container(),
     );
   }
-
 }
-

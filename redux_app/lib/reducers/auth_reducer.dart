@@ -2,9 +2,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:me_suite/actions/auth_actions.dart';
 import 'package:redux/redux.dart';
 
-final authReducer = combineTypedReducers<FirebaseUser>([
-  new ReducerBinding<FirebaseUser, LogInSuccessful>(_logIn),
-  new ReducerBinding<FirebaseUser, LogOutSuccessful>(_logOut),
+final authReducer = combineReducers<FirebaseUser>([
+  new TypedReducer<FirebaseUser, LogInSuccessful>(_logIn),
+  new TypedReducer<FirebaseUser, LogOutSuccessful>(_logOut),
 ]);
 
 FirebaseUser _logIn(FirebaseUser user, action) {

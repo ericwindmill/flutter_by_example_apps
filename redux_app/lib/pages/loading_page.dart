@@ -15,10 +15,9 @@ class LoadingPage extends StatelessWidget {
               gradient: new LinearGradient(
                 begin: Alignment.topRight,
                 end: Alignment.bottomLeft,
-                stops: [0.75, 1.0],
                 colors: [
-                  const Color(0xFF3767B0),
-                  const Color(0xFF0EE592),
+                  const Color(0xFF3744B0),
+                  const Color(0xFF3799B0),
                 ],
               ),
             ),

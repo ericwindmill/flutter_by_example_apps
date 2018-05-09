@@ -7,10 +7,10 @@ import 'package:redux/redux.dart';
 List<Middleware<AppState>> createAuthMiddleware(context) {
   final logIn = _createLogInMiddleware(context);
   final logOut = _createLogOutMiddleware();
-  return combineTypedMiddleware([
-    new MiddlewareBinding<AppState, LogIn>(logIn),
-    new MiddlewareBinding<AppState, LogOut>(logOut)
-  ]);
+  return [
+    new TypedMiddleware<AppState, LogIn>(logIn),
+    new TypedMiddleware<AppState, LogOut>(logOut)
+  ];
 }
 
 Middleware<AppState> _createLogInMiddleware(context) {
