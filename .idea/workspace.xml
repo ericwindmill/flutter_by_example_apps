@@ -2,112 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbe0ca6-7132-43ad-8390-470705c3ba66" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic_flutter_app/basic_flutter_app.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/inherited_widget_authentication/inherited_widget_authentication.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/redux_app/redux_app.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/flutter_by_example_apps.iml" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.packages" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/.gitignore" afterPath="$PROJECT_DIR$/inherited_widget_authentication/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/.metadata" afterPath="$PROJECT_DIR$/inherited_widget_authentication/.metadata" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/README.md" afterPath="$PROJECT_DIR$/inherited_widget_authentication/README.md" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/advanced_app.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/advanced_app_android.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/.gitignore" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/build.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/src/main/java/com/example/advancedapp/MainActivity.java" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/app/src/main/java/com/example/advancedapp/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/src/main/res/drawable/launch_background.xml" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/app/src/main/res/drawable/launch_background.xml" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/app/src/main/res/values/styles.xml" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/build.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/gradle.properties" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/gradle.properties" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/gradlew" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/gradlew" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/gradlew.bat" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/gradlew.bat" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/android/settings.gradle" afterPath="$PROJECT_DIR$/inherited_widget_authentication/android/settings.gradle" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/.gitignore" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Flutter/AppFrameworkInfo.plist" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Flutter/AppFrameworkInfo.plist" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Flutter/Debug.xcconfig" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Flutter/Debug.xcconfig" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Flutter/Release.xcconfig" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Flutter/Release.xcconfig" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Podfile" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Podfile" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Podfile.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner.xcodeproj/project.pbxproj" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner.xcworkspace/contents.xcworkspacedata" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/AppDelegate.h" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/AppDelegate.h" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/AppDelegate.m" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/AppDelegate.m" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Base.lproj/LaunchScreen.storyboard" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Base.lproj/Main.storyboard" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/Info.plist" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/Info.plist" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/ios/Runner/main.m" afterPath="$PROJECT_DIR$/inherited_widget_authentication/ios/Runner/main.m" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/lib/app.dart" afterPath="$PROJECT_DIR$/inherited_widget_authentication/lib/app.dart" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/lib/app_state_container.dart" afterPath="$PROJECT_DIR$/inherited_widget_authentication/lib/app_state_container.dart" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/lib/main.dart" afterPath="$PROJECT_DIR$/inherited_widget_authentication/lib/main.dart" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/lib/models/app_state.dart" afterPath="$PROJECT_DIR$/inherited_widget_authentication/lib/models/app_state.dart" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/lib/models/user.dart" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/lib/pages/auth_screen.dart" afterPath="$PROJECT_DIR$/inherited_widget_authentication/lib/screens/auth_screen.dart" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/lib/pages/home_screen.dart" afterPath="$PROJECT_DIR$/inherited_widget_authentication/lib/screens/home_screen.dart" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/pubspec.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/advanced_app/pubspec.yaml" afterPath="$PROJECT_DIR$/inherited_widget_authentication/pubspec.yaml" />
-      <change beforePath="$PROJECT_DIR$/basic_flutter_app/lib/main.dart" afterPath="$PROJECT_DIR$/basic_flutter_app/lib/main.dart" />
-      <change beforePath="$PROJECT_DIR$/basic_flutter_app/pubspec.lock" afterPath="$PROJECT_DIR$/basic_flutter_app/pubspec.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/basic_flutter_app/basic_flutter_app.iml" afterPath="$PROJECT_DIR$/basic_flutter_app/basic_flutter_app.iml" />
       <change beforePath="$PROJECT_DIR$/blank_flutter_app/blank_flutter_app.iml" afterPath="$PROJECT_DIR$/blank_flutter_app/blank_flutter_app.iml" />
-      <change beforePath="$PROJECT_DIR$/blank_flutter_app/lib/main.dart" afterPath="$PROJECT_DIR$/blank_flutter_app/lib/main.dart" />
-      <change beforePath="$PROJECT_DIR$/blank_flutter_app/pubspec.lock" afterPath="$PROJECT_DIR$/blank_flutter_app/pubspec.lock" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/redux_app/.metadata" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/redux_app/android.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/redux_app/ios/Podfile" afterPath="$PROJECT_DIR$/redux_app/ios/Podfile" />
-      <change beforePath="$PROJECT_DIR$/redux_app/ios/Podfile.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/redux_app/ios/Runner.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/redux_app/ios/Runner.xcodeproj/project.pbxproj" />
-      <change beforePath="$PROJECT_DIR$/redux_app/lib/main.dart" afterPath="$PROJECT_DIR$/redux_app/lib/main.dart" />
-      <change beforePath="$PROJECT_DIR$/redux_app/lib/middlewares/auth_middleware.dart" afterPath="$PROJECT_DIR$/redux_app/lib/middlewares/auth_middleware.dart" />
-      <change beforePath="$PROJECT_DIR$/redux_app/lib/pages/auth_page.dart" afterPath="$PROJECT_DIR$/redux_app/lib/pages/auth_page.dart" />
-      <change beforePath="$PROJECT_DIR$/redux_app/lib/pages/loading_page.dart" afterPath="$PROJECT_DIR$/redux_app/lib/pages/loading_page.dart" />
-      <change beforePath="$PROJECT_DIR$/redux_app/lib/reducers/auth_reducer.dart" afterPath="$PROJECT_DIR$/redux_app/lib/reducers/auth_reducer.dart" />
-      <change beforePath="$PROJECT_DIR$/redux_app/lib/reducers/counter_reducer.dart" afterPath="$PROJECT_DIR$/redux_app/lib/reducers/counter_reducer.dart" />
-      <change beforePath="$PROJECT_DIR$/redux_app/lib/routes.dart" afterPath="$PROJECT_DIR$/redux_app/lib/routes.dart" />
-      <change beforePath="$PROJECT_DIR$/redux_app/me_suite.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/redux_app/me_suite_android.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/redux_app/pubspec.lock" afterPath="$PROJECT_DIR$/redux_app/pubspec.lock" />
-      <change beforePath="$PROJECT_DIR$/redux_app/pubspec.yaml" afterPath="$PROJECT_DIR$/redux_app/pubspec.yaml" />
+      <change beforePath="$PROJECT_DIR$/custom_loader/custom_loader.iml" afterPath="$PROJECT_DIR$/custom_loader/custom_loader.iml" />
+      <change beforePath="$PROJECT_DIR$/custom_loader/ios/Podfile.lock" afterPath="$PROJECT_DIR$/custom_loader/ios/Podfile.lock" />
+      <change beforePath="$PROJECT_DIR$/custom_loader/ios/Runner.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/custom_loader/ios/Runner.xcodeproj/project.pbxproj" />
+      <change beforePath="$PROJECT_DIR$/custom_loader/lib/main.dart" afterPath="$PROJECT_DIR$/custom_loader/lib/main.dart" />
+      <change beforePath="$PROJECT_DIR$/custom_loader/lib/take_one.dart" afterPath="$PROJECT_DIR$/custom_loader/lib/loading_screen.dart" />
+      <change beforePath="$PROJECT_DIR$/custom_loader/lib/take_two.dart" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/inherited_widget_authentication/inherited_widget_authentication.iml" afterPath="$PROJECT_DIR$/inherited_widget_authentication/inherited_widget_authentication.iml" />
+      <change beforePath="$PROJECT_DIR$/redux_app/redux_app.iml" afterPath="$PROJECT_DIR$/redux_app/redux_app.iml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -118,13 +27,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/redux_app/lib/main.dart">
+      <file leaf-file-name="animations.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/custom_loader/lib/animations.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="899">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="-1488">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,6 +98,7 @@
         <option value="$PROJECT_DIR$/inherited_widget_authentication/lib/app_state_container.dart" />
         <option value="$PROJECT_DIR$/redux_app/lib/routes.dart" />
         <option value="$PROJECT_DIR$/redux_app/lib/main.dart" />
+        <option value="$PROJECT_DIR$/custom_loader/lib/main.dart" />
       </list>
     </option>
   </component>
@@ -199,12 +109,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="777" />
+    <option name="x" value="69" />
     <option name="y" value="22" />
-    <option name="width" value="1018" />
+    <option name="width" value="1165" />
     <option name="height" value="1178" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -222,9 +132,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -233,14 +142,20 @@
               <item name="flutter_by_example_apps" type="b2602c69:ProjectViewProjectNode" />
               <item name="custom_loader" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="flutter_by_example_apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="custom_loader" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -265,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Flutter.redux_app">
+  <component name="RunManager" selected="Flutter.animation_loader">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -289,6 +204,9 @@
     </configuration>
     <configuration name="advanced_app" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/inherited_widget_authentication/lib/main.dart" />
+    </configuration>
+    <configuration name="animation_loader" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/custom_loader/lib/main.dart" />
     </configuration>
     <configuration name="blank_app" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/blank_flutter_app/lib/main.dart" />
@@ -371,11 +289,12 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Flutter.advanced_app" />
       <item index="1" class="java.lang.String" itemvalue="Flutter.redux_app" />
-      <item index="2" class="java.lang.String" itemvalue="Flutter.dogs_app" />
-      <item index="3" class="java.lang.String" itemvalue="Flutter.blank_app" />
+      <item index="2" class="java.lang.String" itemvalue="Flutter.animation_loader" />
+      <item index="3" class="java.lang.String" itemvalue="Flutter.dogs_app" />
+      <item index="4" class="java.lang.String" itemvalue="Flutter.blank_app" />
     </list>
   </component>
   <component name="SbtLocalSettings">
@@ -414,50 +333,53 @@
       <workItem from="1525787896159" duration="1025000" />
       <workItem from="1525788996731" duration="3428000" />
       <workItem from="1525876613374" duration="1321000" />
-      <workItem from="1525878048288" duration="3550000" />
+      <workItem from="1525878048288" duration="3753000" />
+      <workItem from="1525974581074" duration="685000" />
+      <workItem from="1526135111854" duration="1106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33151000" />
+    <option name="totallyTimeSpent" value="35145000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="777" y="22" width="1018" height="1178" extended-state="0" />
+    <frame x="69" y="22" width="1165" height="1178" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5124521" sideWeight="0.506183" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3591954" sideWeight="0.49381697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30363986" sideWeight="0.6051113" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20963426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48850575" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36015326" sideWeight="0.49381697" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3045977" sideWeight="0.6051113" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23305956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48850575" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13907285" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17484389" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -477,20 +399,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/redux_app/lib/constants/colors.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redux_app/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inherited_widget_authentication/lib/screens/home_screen.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -568,13 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/flutter/packages/flutter/lib/src/services/platform_messages.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="39" column="62" lean-forward="false" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/flutter/packages/flutter/lib/src/services/platform_messages.dart" />
     <entry file="file://$PROJECT_DIR$/redux_app/ios/Runner/Info.plist">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -656,9 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#40#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -666,9 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding>
-            <element signature="e#1#40#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#50#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -732,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,31 +631,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-315">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flutter_by_example_apps.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock" />
+    <entry file="file://$PROJECT_DIR$/flutter_by_example_apps.iml" />
     <entry file="file://$PROJECT_DIR$/inherited_widget_authentication/lib/models/app_state.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="50" lean-forward="false" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,7 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="361" column="6" lean-forward="false" selection-start-line="361" selection-start-column="6" selection-end-line="361" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -788,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -796,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="288" column="16" lean-forward="true" selection-start-line="288" selection-start-column="16" selection-end-line="288" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -804,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,7 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-469">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -820,9 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#49#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -830,9 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#56#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,18 +703,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="54" column="10" lean-forward="false" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/redux_app/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="899">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="795">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_loader/lib/take_two.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_loader/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_loader/lib/loading_screen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_loader/lib/animations.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1488">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>

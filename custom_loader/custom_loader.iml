@@ -2,9 +2,18 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/map_view/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/map_view/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/map_view/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/map_view/example/build" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>

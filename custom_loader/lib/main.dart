@@ -1,4 +1,4 @@
-import 'package:custom_loader/take_two.dart';
+import 'package:custom_loader/loading_screen.dart';
 import 'package:flutter/material.dart';
 
 
