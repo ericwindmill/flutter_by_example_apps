@@ -1,51 +1,28 @@
 import 'package:flutter/material.dart';
 import 'package:stars_animation/animations.dart';
 
-class SkyCircle extends StatefulWidget {
+
+class SkyCircle extends StatelessWidget {
   final double size;
   final double top;
   final double radius;
   final double left;
+  final AnimationController animationController;
 
-  SkyCircle({this.size, this.top, this.left, this.radius});
-
-  @override
-  SkyCircleState createState() {
-    return new SkyCircleState();
-  }
-}
-
-class SkyCircleState extends State<SkyCircle>
-    with SingleTickerProviderStateMixin {
-  AnimationController _animationController;
-
-  @override
-  initState() {
-    super.initState();
-    _animationController = new AnimationController(
-      duration: const Duration(milliseconds: 3000),
-      vsync: this,
-    )..repeat();
-  }
-
-  @override
-  void dispose() {
-    _animationController.dispose();
-    super.dispose();
-  }
+  SkyCircle({this.size, this.top, this.left, this.radius, this.animationController});
 
   @override
   Widget build(BuildContext context) {
     return new Positioned(
-      top: widget.top,
-      left: widget.left,
+      top: top,
+      left: left,
       child: new PivotTransition(
-        turns: _animationController,
+        turns: animationController,
         child: new Container(
-          height: widget.size,
-          width: widget.size,
+          height: size,
+          width: size,
           decoration: new BoxDecoration(
-            borderRadius: new BorderRadius.circular(widget.radius),
+            borderRadius: new BorderRadius.circular(radius),
             color: new Color(0xFF2A2138),
           ),
         ),
@@ -86,7 +63,6 @@ class SkyPoint extends StatelessWidget {
 class TriangleClipper extends CustomClipper<Path> {
   @override
   Path getClip(Size size) {
-    print(size.height);
     Path path = new Path();
     path.lineTo(0.0, size.height);
     path.lineTo((size.width - 80.0), 0.0);
@@ -95,5 +71,5 @@ class TriangleClipper extends CustomClipper<Path> {
   }
 
   @override
-  bool shouldReclip(CustomClipper<Path> oldClipper) => oldClipper != this;
+  bool shouldReclip(CustomClipper<Path> oldClipper) => false;
 }

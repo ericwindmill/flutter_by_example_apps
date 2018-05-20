@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:stars_animation/sky.dart';
 
 class Head extends StatelessWidget {
   final double size;
@@ -236,7 +235,6 @@ class Toe extends StatelessWidget {
 class ToeClipper extends CustomClipper<Path> {
   @override
   Path getClip(Size size) {
-    print(size.height);
     Path path = new Path();
     path.moveTo(0.0, size.height);
     path.lineTo(size.width, size.height);
@@ -246,7 +244,7 @@ class ToeClipper extends CustomClipper<Path> {
   }
 
   @override
-  bool shouldReclip(CustomClipper<Path> oldClipper) => oldClipper != this;
+  bool shouldReclip(CustomClipper<Path> oldClipper) => false;
 }
 
 class Arm extends StatelessWidget {
