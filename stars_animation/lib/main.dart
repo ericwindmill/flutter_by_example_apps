@@ -1,8 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:stars_animation/girl.dart';
+import 'package:stars_animation/planets.dart';
 import 'package:stars_animation/sky.dart';
 
 void main() => runApp(new StarsAnimation());
+
+List<LinearGradient> gradients = [
+  new LinearGradient(colors: [new Color(0xFF00c6fb), new Color(0xFF005bea)]),
+  new LinearGradient(colors: [new Color(0xFFf83600), new Color(0xFFf9d423)]),
+];
 
 class StarsAnimation extends StatelessWidget {
   @override
@@ -11,6 +17,7 @@ class StarsAnimation extends StatelessWidget {
       home: new Scaffold(
         body: new Stack(
           children: <Widget>[
+            // Dark Sky
             new SkyCircle(size: 250.0, top: -30.0, left: -30.0, radius: 120.0),
             new SkyCircle(size: 250.0, top: -30.0, left: 150.0, radius: 120.0),
             new SkyCircle(size: 220.0, top: 160.0, left: 10.0, radius: 107.0),
@@ -18,6 +25,24 @@ class StarsAnimation extends StatelessWidget {
             new SkyCircle(size: 170.0, top: 340.0, left: 40.0, radius: 81.0),
             new SkyCircle(size: 170.0, top: 340.0, left: 140.0, radius: 81.0),
             new SkyPoint(size: 180.0, top: 500.0, left: 125.0),
+            // Planets
+            new Planet(
+                size: 50.0,
+                top: 40.0,
+                left: 60.0,
+                color: Colors.blue,
+                gradient: gradients[0]),
+            new Planet(
+                size: 45.0,
+                top: 30.0,
+                left: 30.0,
+                color: Colors.orange,
+                gradient: gradients[1]),
+            // Stars
+
+            //Shooting Stars
+
+            //Girl
             new Arm(size: 100.0, top: 655.0, left: 233.0, rotate: 35.0),
             new Body(size: 180.0, top: 640.0, left: 235.0),
             new Leg(
