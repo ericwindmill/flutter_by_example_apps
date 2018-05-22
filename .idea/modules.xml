@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/blank_flutter_app/blank_flutter_app.iml" filepath="$PROJECT_DIR$/blank_flutter_app/blank_flutter_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/custom_loader/custom_loader.iml" filepath="$PROJECT_DIR$/custom_loader/custom_loader.iml" />
       <module fileurl="file://$PROJECT_DIR$/inherited_widget_authentication/inherited_widget_authentication.iml" filepath="$PROJECT_DIR$/inherited_widget_authentication/inherited_widget_authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifecycle_hooks/lifecycle_hooks.iml" filepath="$PROJECT_DIR$/lifecycle_hooks/lifecycle_hooks.iml" />
       <module fileurl="file://$PROJECT_DIR$/redux_app/redux_app.iml" filepath="$PROJECT_DIR$/redux_app/redux_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stars_animation/stars_animation.iml" filepath="$PROJECT_DIR$/stars_animation/stars_animation.iml" />
     </modules>
   </component>
 </project>
