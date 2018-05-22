@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbe0ca6-7132-43ad-8390-470705c3ba66" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/stars_animation/lib/shooting_star.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/stars_animation/lib/star.dart" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/stars_animation/lib/animations.dart" afterPath="$PROJECT_DIR$/stars_animation/lib/animations.dart" />
       <change beforePath="$PROJECT_DIR$/stars_animation/lib/girl.dart" afterPath="$PROJECT_DIR$/stars_animation/lib/girl.dart" />
       <change beforePath="$PROJECT_DIR$/stars_animation/lib/main.dart" afterPath="$PROJECT_DIR$/stars_animation/lib/main.dart" />
-      <change beforePath="$PROJECT_DIR$/stars_animation/lib/planets.dart" afterPath="$PROJECT_DIR$/stars_animation/lib/planets.dart" />
-      <change beforePath="$PROJECT_DIR$/stars_animation/lib/sky.dart" afterPath="$PROJECT_DIR$/stars_animation/lib/sky.dart" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,13 +17,13 @@
       <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stars_animation/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="141" column="44" lean-forward="false" selection-start-line="141" selection-start-column="44" selection-end-line="141" selection-end-column="44" />
+            <state relative-caret-position="2318">
+              <caret line="151" column="51" lean-forward="false" selection-start-line="151" selection-start-column="51" selection-end-line="151" selection-end-column="51" />
               <folding>
-                <marker date="1526853653876" expanded="true" signature="2351:2352" ph="(...)" />
-                <marker date="1526853653876" expanded="true" signature="3540:3590" ph="(...)" />
-                <marker date="1526853653876" expanded="true" signature="5056:5072" ph="(...)" />
-                <marker date="1526853653876" expanded="true" signature="6713:6732" ph="//..." />
+                <marker date="1526853931952" expanded="true" signature="2430:2431" ph="(...)" />
+                <marker date="1526853931952" expanded="true" signature="3619:3669" ph="(...)" />
+                <marker date="1526853931952" expanded="true" signature="5144:5160" ph="(...)" />
+                <marker date="1526853931952" expanded="true" signature="6801:6820" ph="//..." />
               </folding>
             </state>
           </provider>
@@ -57,6 +51,8 @@
       <find>should</find>
       <find>print</find>
       <find>controller</find>
+      <find>_slow</find>
+      <find>head</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,11 +104,11 @@
         <option value="$PROJECT_DIR$/stars_animation/lib/_temp.dart" />
         <option value="$PROJECT_DIR$/basic_flutter_app/lib/dog_list.dart" />
         <option value="$PROJECT_DIR$/stars_animation/lib/sky.dart" />
-        <option value="$PROJECT_DIR$/stars_animation/lib/girl.dart" />
         <option value="$PROJECT_DIR$/stars_animation/lib/animations.dart" />
         <option value="$PROJECT_DIR$/stars_animation/lib/planets.dart" />
         <option value="$PROJECT_DIR$/stars_animation/lib/star.dart" />
         <option value="$PROJECT_DIR$/stars_animation/lib/shooting_star.dart" />
+        <option value="$PROJECT_DIR$/stars_animation/lib/girl.dart" />
         <option value="$PROJECT_DIR$/stars_animation/lib/main.dart" />
       </list>
     </option>
@@ -124,7 +120,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
+    <option name="x" value="71" />
     <option name="y" value="22" />
     <option name="width" value="1284" />
     <option name="height" value="1178" />
@@ -373,15 +369,15 @@
       <workItem from="1526568706447" duration="3000000" />
       <workItem from="1526653141878" duration="3683000" />
       <workItem from="1526657053155" duration="94000" />
-      <workItem from="1526767056373" duration="24474000" />
+      <workItem from="1526767056373" duration="25199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67879000" />
+    <option name="totallyTimeSpent" value="68604000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="73" y="22" width="1284" height="1178" extended-state="0" />
+    <frame x="71" y="22" width="1284" height="1178" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -401,9 +397,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31417623" sideWeight="0.49381697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31417623" sideWeight="0.49381697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27969348" sideWeight="0.6051113" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27969348" sideWeight="0.6051113" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23467742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -683,16 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stars_animation/lib/girl.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="236" column="27" lean-forward="false" selection-start-line="236" selection-start-column="27" selection-end-line="236" selection-end-column="27" />
-          <folding>
-            <marker date="1526847374215" expanded="true" signature="3721:3879" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Development/flutter/packages/flutter/lib/src/animation/animation.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -805,15 +791,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stars_animation/lib/girl.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <marker date="1526853824522" expanded="true" signature="3679:3837" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stars_animation/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="141" column="44" lean-forward="false" selection-start-line="141" selection-start-column="44" selection-end-line="141" selection-end-column="44" />
+        <state relative-caret-position="2318">
+          <caret line="151" column="51" lean-forward="false" selection-start-line="151" selection-start-column="51" selection-end-line="151" selection-end-column="51" />
           <folding>
-            <marker date="1526853653876" expanded="true" signature="2351:2352" ph="(...)" />
-            <marker date="1526853653876" expanded="true" signature="3540:3590" ph="(...)" />
-            <marker date="1526853653876" expanded="true" signature="5056:5072" ph="(...)" />
-            <marker date="1526853653876" expanded="true" signature="6713:6732" ph="//..." />
+            <marker date="1526853931952" expanded="true" signature="2430:2431" ph="(...)" />
+            <marker date="1526853931952" expanded="true" signature="3619:3669" ph="(...)" />
+            <marker date="1526853931952" expanded="true" signature="5144:5160" ph="(...)" />
+            <marker date="1526853931952" expanded="true" signature="6801:6820" ph="//..." />
           </folding>
         </state>
       </provider>

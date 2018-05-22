@@ -20,10 +20,9 @@ class Head extends StatelessWidget {
           gradient: new LinearGradient(
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
-            stops: [0.1, 0.5, 0.7, 0.9],
+            stops: [0.1, 0.5, 0.9],
             colors: [
-              new Color(0xFF444444),
-              new Color(0xFF111111),
+              new Color(0xFF555555),
               new Color(0xFF111111),
               new Color(0xFF000000),
             ],

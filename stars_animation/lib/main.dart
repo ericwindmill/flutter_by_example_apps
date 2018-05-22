@@ -27,19 +27,19 @@ class StarsAnimationState extends State<StarsAnimation>
   initState() {
     super.initState();
     _bobAnimationController = new AnimationController(
-      duration: const Duration(milliseconds: 3000),
+      duration: const Duration(milliseconds: 2000),
       vsync: this,
     );
     _slowAnimationController = new AnimationController(
-      duration: const Duration(milliseconds: 10000),
+      duration: const Duration(milliseconds: 6000),
       vsync: this,
     );
     _mdSpeedAnimationController = new AnimationController(
-      duration: const Duration(milliseconds: 5000),
+      duration: const Duration(milliseconds: 3000),
       vsync: this,
     );
     _fastAnimationController = new AnimationController(
-      duration: const Duration(milliseconds: 3000),
+      duration: const Duration(milliseconds: 2000),
       vsync: this,
     );
     _startBobAnimation();
@@ -66,12 +66,14 @@ class StarsAnimationState extends State<StarsAnimation>
     _slowAnimationController?.dispose();
     _mdSpeedAnimationController?.dispose();
     _fastAnimationController?.dispose();
+    _bobAnimationController.dispose();
     super.dispose();
   }
 
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: new Scaffold(
         body: new Stack(
           children: <Widget>[
@@ -130,7 +132,7 @@ class StarsAnimationState extends State<StarsAnimation>
               top: 280.0,
               left: 10.0,
               animationStep: new CurvedAnimation(
-                parent: _fastAnimationController,
+                parent: _mdSpeedAnimationController,
                 curve: new Interval(0.0, 0.3),
               ),
             ),
@@ -138,7 +140,7 @@ class StarsAnimationState extends State<StarsAnimation>
               top: 100.0,
               left: 10.0,
               animationStep: new CurvedAnimation(
-                parent: _fastAnimationController,
+                parent: _mdSpeedAnimationController,
                 curve: new Interval(0.3, 0.7),
               ),
             ),
@@ -147,7 +149,7 @@ class StarsAnimationState extends State<StarsAnimation>
               left: 59.0,
               width: 372.0,
               animationStep: new CurvedAnimation(
-                parent: _fastAnimationController,
+                parent: _mdSpeedAnimationController,
                 curve: new Interval(0.4, 0.6),
               ),
             ),
