@@ -1,8 +1,3 @@
-# stars_animation
+# Night Sky Animation in Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![sky animation gif](https://res.cloudinary.com/ericwindmill/image/upload/v1526854373/flutter_star_animation_hetibt.gif)
