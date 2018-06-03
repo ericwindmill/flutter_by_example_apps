@@ -29,6 +29,16 @@ class _MyHomePageState extends State<MyHomePage> {
         title: new Text(widget.title),
       ),
       body: new Container(),
+      floatingActionButton: new Builder(builder: (context) {
+        return new FloatingActionButton(onPressed: () {
+          Scaffold.of(context).showSnackBar(
+                new SnackBar(
+                  backgroundColor: Colors.blue,
+                  content: new Text('SnackBar'),
+                ),
+              );
+        });
+      }),
     );
   }
 }
