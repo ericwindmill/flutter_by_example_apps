@@ -4,7 +4,7 @@ import 'package:me_suite/actions/auth_actions.dart';
 import 'package:me_suite/models/app_state.dart';
 import 'package:redux/redux.dart';
 
-List<Middleware<AppState>> createAuthMiddleware(context) {
+dynamic createAuthMiddleware(context) {
   final logIn = _createLogInMiddleware(context);
   final logOut = _createLogOutMiddleware();
   return [
