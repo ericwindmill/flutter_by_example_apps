@@ -46,7 +46,6 @@ class _AddDogFormPageState extends State<AddDogFormPage> {
                 padding: const EdgeInsets.only(bottom: 8.0),
                 child: new TextField(
                     controller: nameController,
-                    onChanged: (v) => nameController.text = v,
                     decoration: new InputDecoration(
                       labelText: 'Name the Pup',
                     )),
@@ -55,7 +54,6 @@ class _AddDogFormPageState extends State<AddDogFormPage> {
                 padding: const EdgeInsets.only(bottom: 8.0),
                 child: new TextField(
                     controller: locationController,
-                    onChanged: (v) => locationController.text = v,
                     decoration: new InputDecoration(
                       labelText: "Pups location",
                     )),
@@ -64,7 +62,6 @@ class _AddDogFormPageState extends State<AddDogFormPage> {
                 padding: const EdgeInsets.only(bottom: 8.0),
                 child: new TextField(
                     controller: descriptionController,
-                    onChanged: (v) => descriptionController.text = v,
                     decoration: new InputDecoration(
                       labelText: 'All about the pup',
                     )),
