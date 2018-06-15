@@ -3,26 +3,37 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/cloud_firestore-0.6.3/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/cloud_firestore-0.6.3/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/cloud_firestore-0.6.3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/cloud_firestore-0.6.3/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/cloud_firestore-0.6.3/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/cloud_firestore-0.6.3/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_auth-0.5.8/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_auth-0.5.8/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_auth-0.5.8/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_auth-0.5.8/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_auth-0.5.8/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_auth-0.5.8/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_core-0.2.3/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_core-0.2.3/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_core-0.2.3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_core-0.2.3/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_core-0.2.3/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_core-0.2.3/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_messaging-0.2.5/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_messaging-0.2.5/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_messaging-0.2.5/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_messaging-0.2.5/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_messaging-0.2.5/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/firebase_messaging-0.2.5/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/google_sign_in-3.0.3/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/google_sign_in-3.0.3/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/google_sign_in-3.0.3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/google_sign_in-3.0.3/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/google_sign_in-3.0.3/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/Pods/.symlinks/plugins/google_sign_in-3.0.3/example/build" />
     </content>
