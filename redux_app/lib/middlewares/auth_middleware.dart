@@ -44,7 +44,7 @@ Middleware<AppState> _createLogOutMiddleware() {
         print('logging out...');
         store.dispatch(new LogOutSuccessful());
       } catch (error) {
-        print(error);
+        store.dispatch(new LogOutFail(error));
       }
     }
   };
