@@ -22,10 +22,13 @@ Middleware<AppState> _createLogInMiddleware(context) {
       try {
         GoogleSignInAccount googleUser = await _googleSignIn.signIn();
         GoogleSignInAuthentication googleAuth = await googleUser.authentication;
-        user = await _auth.signInWithGoogle(
+        
+        final AuthCredential credential = GoogleAuthProvider.getCredential(
           accessToken: googleAuth.accessToken,
           idToken: googleAuth.idToken,
         );
+        user = await _auth.signInWithCredential(credential);
+        
         print('Logged in ${user.displayName}');
         store.dispatch(new LogInSuccessful(user: user));
       } catch (error) {
